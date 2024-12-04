@@ -14,8 +14,6 @@ Bu proje, kullanıcıların lezzetli fast food ürünlerini kolayca seçip sipar
 
 ![](Restaurant.gif)
 
-![](Restaurant-to-gif-converter.gif)
-
 
 ## 📞 İletişim  
 Herhangi bir sorunuz veya öneriniz mi var? Bizimle iletişime geçin:  
